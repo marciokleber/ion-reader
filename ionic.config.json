@@ -1,0 +1,7 @@
+{
+  "name": "ion-reader",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
